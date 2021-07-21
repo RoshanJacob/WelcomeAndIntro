@@ -1,0 +1,21 @@
+{
+  "name": "welcomeandintrobot",
+  "version": "1.0.0",
+  "description": "A friendly welcome bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Friendly",
+    "Intro",
+    "Welcome",
+    "Bot"
+  ],
+  "author": "R.J",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
